@@ -1,1 +1,1 @@
-nginx
+jc21/nginx-proxy-manager
