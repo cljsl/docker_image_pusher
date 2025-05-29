@@ -1,1 +1,1 @@
-jxxghp/nas-tools
+jxxghp/nas-tools:2.9.1
