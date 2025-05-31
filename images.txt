@@ -1,1 +1,1 @@
-caddyserver/caddy:latest
+caddyserver / caddy:latest
