@@ -1,1 +1,1 @@
-hslr-s/sun-panel:1.3.0
+hslr-s/sun-panel
