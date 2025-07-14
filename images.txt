@@ -1,1 +1,1 @@
-LeslieLeung/heimdallr
+k8s.io/LeslieLeung/heimdallr
