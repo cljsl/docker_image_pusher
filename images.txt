@@ -1,1 +1,1 @@
-LeslieLeung/heimdallr
+github.com/LeslieLeung/heimdallr
