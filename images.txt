@@ -1,1 +1,1 @@
-linuxserver/calibre-web:latest
+lscr.io/linuxserver/calibre-web:latest
