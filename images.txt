@@ -1,1 +1,1 @@
-vishnuraghavb/EnBizCard:latest
+linuxserver/calibre-web:latest
